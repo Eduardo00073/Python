@@ -103,3 +103,15 @@ Servir como material de apoio para turmas de Programação, reforçando conceito
 ---
 
 <p align="center"><i>Material didático desenvolvido como Professor de Programação, Informática e Robótica.</i></p>
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este material te ajudou, deixe uma estrela — isso ajuda outros estudantes e professores a encontrarem o repositório.
+
+### 🔗 Outros projetos relacionados
+
+💛 [JavaScript Fundamentos](https://github.com/Eduardo00073/javascript-fundamentos) — guia definitivo de JavaScript Moderno (ES6+).
+
+🛡️ [Cybersecurity Labs](https://github.com/Eduardo00073/cybersecurity-labs) — laboratórios práticos de segurança cibernética em Python.
